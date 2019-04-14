@@ -1,0 +1,2 @@
+# Kishor-Alo-Programming-Club
+Kishor Alo Programming Club is the biggest children programming club in Bangladesh. Though this club operated sometimes physically but, now it's mainly an online (Facebook) group. The main goal of this club is to help beginners to start programming, and help along the journey which, it does perfectly. Being the founder-coordinator of this group, I helped over thousands of beginners to start programming. As part of the journey, I wrote many articles to help beginners, which, will be included in this repository.
